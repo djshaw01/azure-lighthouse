@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "mspOfferName": {
+            "value": "SHI One Access"
+        },
+        "mspOfferDescription": {
+            "value": "SHI One Access to my subscription from Lighthouse"
+        },
+        "managedByTenantId": {
+            "value": "7584ba9c-dd91-4745-9b7e-b4de9da3be7b"
+        },
+        "authorizations": {
+            "value": [
+                { 
+                    "principalId": "5daa2e89-0102-4be2-8f15-08b4e41756c5",
+                    "roleDefinitionId": "72fafb9e-0641-4937-9268-a91bfd8191a3",
+                    "principalIdDisplayName": "Cost Management Reader"
+                }
+                ]
+            }
+        }
+}
