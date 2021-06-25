@@ -7,7 +7,7 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "<to be filled out by MSP> Specify a title for your offer"
+            "defaultValue": "SHI One Access"
         },
         "mspOfferDescription": {
             "type": "string",
