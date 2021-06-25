@@ -14,7 +14,7 @@
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "<to be filled out by MSP> Provide a brief description of your offer"
+            "defaultValue": "SHI One Access"
         },
         "managedByTenantId": {
             "type": "string",
