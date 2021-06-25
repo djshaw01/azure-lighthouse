@@ -30,7 +30,7 @@
             },
             "defaultValue": [
                 { 
-                    "principalId": "00000000-0000-0000-0000-000000000000",
+                    "principalId": "5daa2e89-0102-4be2-8f15-08b4e41756c5",
                     "roleDefinitionId": "72fafb9e-0641-4937-9268-a91bfd8191a3",
                     "principalIdDisplayName": "Cost Management Reader"
                 }
