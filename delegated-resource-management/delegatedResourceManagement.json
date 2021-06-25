@@ -14,7 +14,7 @@
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "SHI One Access to my subscription from Lighthouse"
+            "defaultValue": "SHI One Access to my subscription from Lighthouse."
         },
         "managedByTenantId": {
             "type": "string",
