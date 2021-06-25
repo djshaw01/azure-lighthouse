@@ -7,22 +7,21 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "SHI One Access"
-
+            "defaultValue": "<to be filled out by MSP> Specify a title for your offer"
         },
         "mspOfferDescription": {
             "type": "string",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "SHI One Access to my subscription from Lighthouse"
+            "defaultValue": "<to be filled out by MSP> Provide a brief description of your offer"
         },
         "managedByTenantId": {
             "type": "string",
             "metadata": {
                 "description": "Specify the tenant id of the Managed Service Provider"
             },
-            "defaultValue": "7584ba9c-dd91-4745-9b7e-b4de9da3be7b"
+            "defaultValue": "<to be filled out by MSP> Provide your tenant id"
         },
         "authorizations": {
             "type": "array",
@@ -31,7 +30,7 @@
             },
             "defaultValue": [
                 { 
-                    "principalId": "5daa2e89-0102-4be2-8f15-08b4e41756c5",
+                    "principalId": "00000000-0000-0000-0000-000000000000",
                     "roleDefinitionId": "72fafb9e-0641-4937-9268-a91bfd8191a3",
                     "principalIdDisplayName": "Cost Management Reader"
                 }
