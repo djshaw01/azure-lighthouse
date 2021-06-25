@@ -14,14 +14,14 @@
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "SHI One Access"
+            "defaultValue": "SHI One Access to my subscription from Lighthouse"
         },
         "managedByTenantId": {
             "type": "string",
             "metadata": {
                 "description": "Specify the tenant id of the Managed Service Provider"
             },
-            "defaultValue": "<to be filled out by MSP> Provide your tenant id"
+            "defaultValue": "7584ba9c-dd91-4745-9b7e-b4de9da3be7b"
         },
         "authorizations": {
             "type": "array",
